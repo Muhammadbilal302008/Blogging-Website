@@ -1,0 +1,21 @@
+{
+    "name": "Blogging-Website",
+    "version": "1.0.0",
+    "description": "This is my project",
+    "scripts": {
+      "start": "parcel serve index.html",  
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "parcel build index.html"
+    },
+    "keywords": ["web", "project", "node"],
+    "author": "Muhammad Bilal",
+    "license": "ISC",
+    "dependencies": {
+      "parcel": "^2.8.3"  
+    },
+    "devDependencies": {
+      "htmlhint": "^1.1.14",  
+      "stylelint": "^14.16.1"  
+    }
+  }
+  
